@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Academic Projects
 - 📫 How to reach me @therealzatrix
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I can piilot a Plane
 
 <!---
