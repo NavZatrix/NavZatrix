@@ -10,7 +10,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/NavZatrix/ActiveDirectory)
+ 
+- <b>PowerShell-Integrity-FIM</b>
+  - [PowerShell-Integrity-FIM](https://github.com/NavZatrix/PowerShell-Integrity-FIM)
  
 - <b>Setting up SIEM in Azure</b>
   - [Setting up SIEM in Azure]
