@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @NavZatrix
+<h2> 👋 Hi, I’m @NavZatrix </h2>
+
 - 👀 I’m interested in Learning and Exploring
 - 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to collaborate on Academic Projects
@@ -8,8 +9,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Home Lab</b>
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+- <b>Setting up SIEM in Azure</b>
+  - [Setting up SIEM in Azure]
 
 
 <h2> 🤳 Connect with me:</h2>
